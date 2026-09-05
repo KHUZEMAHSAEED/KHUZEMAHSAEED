@@ -26,8 +26,8 @@ Specialized in developing resilient backend architectures with **PHP (Laravel)**
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=KHUZEMAHSAEED&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Khuzemah's GitHub Stats" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KHUZEMAHSAEED&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" />
+  <img height="165em" src="https://github-stats-extended.vercel.app/api?username=KHUZEMAHSAEED&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Khuzemah's GitHub Stats" />
+  <img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=KHUZEMAHSAEED&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" />
 </div>
 
 ---
