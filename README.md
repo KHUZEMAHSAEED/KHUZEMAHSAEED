@@ -2,11 +2,11 @@
 
 ### 🚀 Senior Full Stack Developer & AI Engineer
 
-[![Email](https://img.shields.io/badge/Email-ksaeed.bscs15seecs%40seecs.edu.pk-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ksaeed.bscs15seecs@seecs.edu.pk)
+[![Email](https://img.shields.io/badge/Email-khuzemasaeed%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khuzemasaeed@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Khuzemah%20Saeed-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khuzemah-saeed/)
 [![Twitter/X](https://img.shields.io/badge/Twitter%2FX-%40KhuzemahSaeed-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/KhuzemahSaeed)
-[![GitHub](https://img.shields.io/badge/GitHub-KHUZEMAH-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KHUZEMAH)
-[![Open to Work](https://img.shields.io/badge/Status-Open%20to%20Opportunities-success?style=for-the-badge)](mailto:ksaeed.bscs15seecs@seecs.edu.pk)
+[![GitHub](https://img.shields.io/badge/GitHub-KHUZEMAHSAEED-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KHUZEMAHSAEED)
+[![Open to Work](https://img.shields.io/badge/Status-Open%20to%20Opportunities-success?style=for-the-badge)](mailto:khuzemasaeed@gmail.com)
 
 ---
 
@@ -26,8 +26,8 @@ Specialized in developing resilient backend architectures with **PHP (Laravel)**
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=KHUZEMAH&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Khuzemah's GitHub Stats" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KHUZEMAH&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=KHUZEMAHSAEED&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Khuzemah's GitHub Stats" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KHUZEMAHSAEED&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" />
 </div>
 
 ---
