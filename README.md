@@ -1,185 +1,136 @@
-# Hi 👋, I'm Khuzemah Saeed
+# Khuzemah Saeed
 
-### 🚀 Senior Full Stack Developer & AI Engineer
+**Senior Full Stack Developer & AI Engineer** — I build AI-powered PropTech, HRM and enterprise integration systems for the UAE market.
 
-[![Email](https://img.shields.io/badge/Email-khuzemasaeed%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khuzemasaeed@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Khuzemah%20Saeed-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khuzemah-saeed/)
-[![Twitter/X](https://img.shields.io/badge/Twitter%2FX-%40KhuzemahSaeed-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/KhuzemahSaeed)
-[![GitHub](https://img.shields.io/badge/GitHub-KHUZEMAHSAEED-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KHUZEMAHSAEED)
-[![Open to Work](https://img.shields.io/badge/Status-Open%20to%20Opportunities-success?style=for-the-badge)](mailto:khuzemasaeed@gmail.com)
-
----
-
-## 👨‍💻 Executive Summary
-
-Senior Full Stack Developer & AI Engineer with **6+ years of experience** architecting high-performance web platforms, enterprise ERP/CRM systems, and AI-driven workflow automations. 
-
-Specialized in developing resilient backend architectures with **PHP (Laravel)** & **Python**, modern frontend interfaces with **React.js & Next.js**, and enterprise integrations with **Bitrix24, UAE Real Estate portals, and AI/LLM agents**.
-
-- 🔭 **Domain Focus:** PropTech, Real Estate Developer Systems, UAE WPS Payroll & HRM, E-Commerce ERP Integrations.
-- 🤖 **AI & Automation:** Conversational LLM agents, dynamic RAG pipelines, intelligent lead qualification, and automated business processes.
-- ⚡ **Engineering Standard:** Clean DDD (Domain-Driven Design), sub-second database queries, bulletproof REST APIs, and scalable cloud assets.
-- 🌍 **Availability:** Open for Remote, Hybrid, and Contract/Consulting engineering roles.
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khuzemasaeed@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khuzemah-saeed/)
+[![Twitter/X](https://img.shields.io/badge/@KhuzemahSaeed-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/KhuzemahSaeed)
+![Open to Work](https://img.shields.io/badge/Open_to-Remote_%7C_Hybrid_%7C_Contract-success?style=for-the-badge)
 
 ---
 
-## 📊 GitHub Analytics
+## About
+
+6+ years building production web platforms, ERP/CRM systems and AI workflow automation.
+
+- **Backend:** Laravel (PHP 8+) and Python/FastAPI, with domain-driven design and well-indexed MySQL/PostgreSQL schemas
+- **Frontend:** React.js and Next.js with Tailwind CSS
+- **Integrations:** Bitrix24 CRM, UAE property portals (Property Finder, Bayut, Dubizzle), Cin7, ChannelAdvisor
+- **AI:** LLM agents, RAG pipelines and automated lead qualification
+- **Domains:** PropTech, real estate developer systems, UAE WPS payroll & HRM, e-commerce ERP
+
+---
+
+## Tech Stack
+
+**Backend**<br>
+<img src="https://img.shields.io/badge/PHP_8+-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"/>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+<img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white" alt="CodeIgniter"/>
+
+**Frontend**<br>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js"/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+
+**AI & Automation**<br>
+<img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI"/>
+<img src="https://img.shields.io/badge/LLM_Agents-6D28D9?style=flat-square" alt="LLM Agents"/>
+<img src="https://img.shields.io/badge/RAG-2563EB?style=flat-square" alt="RAG"/>
+
+**Data & Infrastructure**<br>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis"/>
+<img src="https://img.shields.io/badge/AWS_S3-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS S3"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+
+**Platforms**<br>
+<img src="https://img.shields.io/badge/Bitrix24-00AEEF?style=flat-square" alt="Bitrix24"/>
+<img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress"/>
+<img src="https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white" alt="WooCommerce"/>
+<img src="https://img.shields.io/badge/Cin7-002B49?style=flat-square" alt="Cin7"/>
+<img src="https://img.shields.io/badge/ChannelAdvisor-F7931E?style=flat-square" alt="ChannelAdvisor"/>
+
+---
+
+## Featured Work
+
+### PropTech & Real Estate Syndication Platform
+Real estate management system for the UAE market.
+
+- Ingestion engine that maps and syncs high-volume XML/CSV listing feeds to **Property Finder, Bayut and Dubizzle**
+- LLM chatbot that qualifies inbound buyers 24/7 (budget, criteria, intent score) and pushes qualified leads into **Bitrix24**
+- AWS S3 media pipeline with image optimization and CDN caching for property photos and floor plans
+
+`Laravel` `Next.js` `Python` `OpenAI` `MySQL` `AWS S3` `Bitrix24 API`
+
+### Developer Inventory & Booking Platform
+Unit inventory, sales approvals and contracts for property developers.
+
+- Building → floor → unit matrix with live status (Available, Reserved, Booked, Sold, Blocked) and database locking to prevent double-booking
+- Reservation flow with multi-level approvals, payment milestone schedules and automated PDF contracts
+- Indexed schema that filters thousands of units across master communities in **under 100 ms**
+
+`Laravel` `React` `Next.js` `MySQL` `Tailwind CSS`
+
+### UAE HRM & WPS Payroll Engine
+HR and payroll system compliant with UAE labour law.
+
+- Payroll engine generating **WPS SIF files** in the Central Bank of UAE format
+- Gratuity (EOSB), salary advances, loan deductions and biometric attendance reconciliation
+- Role-based access control and audit trails for HR and department managers
+
+`Laravel` `Next.js` `MySQL`
+
+### E-Commerce Performance & Multi-Channel ERP
+Optimization and inventory sync across **15+ production stores**.
+
+- Two-way WooCommerce sync with **Cin7 and ChannelAdvisor** to prevent overselling across marketplaces
+- Replaced heavy plugins with custom PHP modules, cutting TTFB and page load by up to **45%**
+- Conversational assistants for product discovery and order tracking
+
+`WooCommerce` `PHP` `Laravel` `Redis` `Cin7 API` `ChannelAdvisor API`
+
+---
+
+## Experience
+
+| Company | Role | Focus |
+|---|---|---|
+| **SAABSOFT** | Senior Software Developer | AI real estate platforms, CRM automation, UAE HRM — Laravel, Next.js, Python, OpenAI, Bitrix24 |
+| **OZ TECHWORK** | Senior Software Developer | High-scale e-commerce, custom themes/plugins, ERP data migration — WordPress, Laravel, Next.js |
+| **REZAID** | Software Developer *(promoted from Junior)* | API-driven business platforms and integrations — Laravel, React, HubSpot, Slack APIs |
+
+<!-- TODO: add years for each role, e.g. 2023 – Present -->
+
+---
+
+## How I Build
+
+```mermaid
+flowchart TD
+    FE["Frontend<br/>Next.js · React · Tailwind"] -->|REST| BE["Core Services<br/>Laravel · Python · FastAPI"]
+    BE --> AI["AI & Automation<br/>OpenAI · RAG · Agents"]
+    BE --> INT["Integrations<br/>Bitrix24 · UAE Portals · ERP"]
+    AI --> DATA["Data & Cloud<br/>MySQL · PostgreSQL · Redis · AWS S3"]
+    INT --> DATA
+```
+
+---
+
+## GitHub Stats
 
 <div align="center">
-  <img height="165em" src="https://github-stats-extended.vercel.app/api?username=KHUZEMAHSAEED&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800" alt="Khuzemah's GitHub Stats" />
+  <img height="165em" src="https://github-stats-extended.vercel.app/api?username=KHUZEMAHSAEED&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
   <img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=KHUZEMAHSAEED&layout=compact&theme=tokyonight&hide=html,css&cache_seconds=1800" alt="Top Languages" />
 </div>
 
 ---
 
-## 🛠️ Tech Stack & Architecture Skills
+## Get in Touch
 
-### 💻 Backend & Core Frameworks
-<p>
-  <img src="https://img.shields.io/badge/PHP_8+-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" alt="CodeIgniter"/>
-  <img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge" alt="REST APIs"/>
-</p>
-
-### 🌐 Frontend & User Interface
-<p>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js"/>
-  <img src="https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-</p>
-
-### 🤖 AI, LLMs & Intelligent Automation
-<p>
-  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
-  <img src="https://img.shields.io/badge/LLM_Agents-6D28D9?style=for-the-badge" alt="LLM Agents"/>
-  <img src="https://img.shields.io/badge/RAG_Pipelines-2563EB?style=for-the-badge" alt="RAG"/>
-  <img src="https://img.shields.io/badge/Prompt_Engineering-00A67E?style=for-the-badge" alt="Prompt Engineering"/>
-  <img src="https://img.shields.io/badge/AI_Chatbots-7C3AED?style=for-the-badge" alt="AI Chatbots"/>
-  <img src="https://img.shields.io/badge/Process_Automation-F59E0B?style=for-the-badge" alt="Automation"/>
-</p>
-
-### 🗄️ Databases, Cloud & Infrastructure
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
-  <img src="https://img.shields.io/badge/AWS_S3-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS S3"/>
-  <img src="https://img.shields.io/badge/Git_%26_GitHub-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-</p>
-
-### 🔌 Enterprise Platforms & Third-Party Systems
-<p>
-  <img src="https://img.shields.io/badge/Bitrix24_CRM-00AEEF?style=for-the-badge" alt="Bitrix24"/>
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"/>
-  <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" alt="WooCommerce"/>
-  <img src="https://img.shields.io/badge/Cin7_ERP-002B49?style=for-the-badge" alt="Cin7"/>
-  <img src="https://img.shields.io/badge/ChannelAdvisor-F7931E?style=for-the-badge" alt="ChannelAdvisor"/>
-</p>
-
----
-
-## 🏗️ Architectural Achievements & Featured Projects
-
-### 🏢 1. AI-Powered PropTech & Real Estate Syndication Platform
-> **Enterprise Real Estate Management System built for the UAE market.**
-
-- **Automated Multi-Portal Syndication:** Engineered an automated data mapping and ingestion engine handling high-volume XML/CSV listing feeds synchronized across premier UAE portals (**Property Finder, Bayut, Dubizzle**).
-- **Intelligent AI Lead Qualification:** Integrated an LLM-powered chatbot to engage inbound buyers 24/7, extract budget and property criteria, assess intent score, and auto-dispatch qualified leads into **Bitrix24 CRM**.
-- **High-Throughput Media Pipeline:** Implemented **AWS S3** object storage with dynamic image optimization and CDN caching to effortlessly serve thousands of high-res architectural photos and floor plans.
-- **Tech Stack:** `Laravel` · `PHP 8` · `React.js` · `Next.js` · `Python` · `OpenAI API` · `MySQL` · `AWS S3` · `Bitrix24 REST API`
-
----
-
-### 🏗️ 2. Real Estate Developer & Inventory Booking Platform
-> **Comprehensive property development system managing unit inventories, sales approvals, and financial contracts.**
-
-- **Real-Time Unit Concurrency Control:** Architected an interactive matrix view for buildings, floors, and individual units with real-time state tracking (*Available, Reserved, Booked, Sold, Blocked*) with strict database concurrency locking to eliminate double-booking errors.
-- **Automated Sales & Contract Workflows:** Built client reservation workflows, multi-tiered manager approval sequences, dynamic payment milestone schedules, and automated PDF contract generation.
-- **Search & Filter Optimization:** Designed an indexed relational schema capable of filtering thousands of units across multiple master communities with sub-100ms API response times.
-- **Tech Stack:** `Laravel` · `React.js` · `Next.js` · `MySQL` · `Tailwind CSS` · `RESTful Microservices`
-
----
-
-### 👥 3. UAE Enterprise HRM & WPS Payroll Engine
-> **End-to-end Human Resource & Payroll management system built strictly compliant with UAE labor laws.**
-
-- **Automated WPS Compliance:** Built the core payroll engine producing verified **SIF (Salary Information File)** formats mandated by the Central Bank of UAE Wages Protection System (WPS).
-- **Complex Financial Rules Engine:** Implemented automated calculations for EOSB (End of Service Benefits / Gratuity), employee salary advances, loan deductions, and biometric attendance reconciliations.
-- **Security & Access Control:** Deployed granular Role-Based Access Control (RBAC) and tamper-proof audit trails for HR administrators and department managers.
-- **Tech Stack:** `Laravel` · `Next.js` · `React` · `MySQL` · `REST APIs`
-
----
-
-### 🛒 4. High-Volume E-Commerce Optimization & Multi-Channel ERP
-> **Performance engineering and multichannel synchronization across 15+ production e-commerce applications.**
-
-- **Multichannel ERP Synchronization:** Architected two-way synchronization pipelines integrating WooCommerce with enterprise inventory platforms (**Cin7 & ChannelAdvisor**), preventing overselling across international marketplaces.
-- **Performance & Plugin Re-Engineering:** Stripped third-party plugin overhead by replacing bloated extensions with custom, tailored PHP modules—reducing TTFB and page load times by up to **45%**.
-- **AI Conversational Support:** Integrated custom conversational AI assistants to guide shoppers through catalog discovery, order status tracking, and cart completion.
-- **Tech Stack:** `WordPress` · `WooCommerce` · `PHP` · `Laravel` · `MySQL` · `Cin7 API` · `ChannelAdvisor API` · `Redis`
-
----
-
-## 💼 Career History
-
-```text
-SAABSOFT                           Senior Software Developer               [UAE Projects]
-├─ Architecting AI-powered real estate platforms, CRM automations, and enterprise UAE HRM systems.
-└─ Stack: Laravel, React, Next.js, Python, OpenAI, Bitrix24, AWS S3, MySQL
-
-OZ TECHWORK                        Senior Software Developer
-├─ Delivered high-scale e-commerce, custom theme/plugin development, and ERP data migration.
-└─ Stack: WordPress, PHP, Laravel, Next.js, MySQL, REST APIs
-
-REZAID                             Software Developer (Promoted from Junior)
-├─ Engineered API-driven business platforms and client integration workflows.
-└─ Stack: WordPress, Laravel, React, HubSpot, Slack APIs
-```
-
----
-
-## ⚙️ How I Engineer Solutions
-
-```
- ┌──────────────────────────────────────────────────────────┐
- │               Modern Client Experience                   │
- │           Next.js  •  React.js  •  Tailwind CSS          │
- └────────────────────────────┬─────────────────────────────┘
-                              │ REST / GraphQL
- ┌────────────────────────────▼─────────────────────────────┐
- │               Core Logic & Microservices                 │
- │       Laravel (PHP 8+)  •  Python  •  FastAPI            │
- └──────────────┬─────────────────────────────┬─────────────┘
-                │                             │
- ┌──────────────▼─────────────┐ ┌─────────────▼─────────────┐
- │    AI & Automation Layer   │ │    Enterprise Integration │
- │ OpenAI • RAG • Agents • LLM│ │ Bitrix24 • UAE Portals•ERP│
- └──────────────┬─────────────┘ └─────────────┬─────────────┘
-                │                             │
- ┌──────────────▼─────────────────────────────▼─────────────┐
- │               Storage, Cache & Cloud Infra               │
- │        MySQL  •  PostgreSQL  •  Redis  •  AWS S3         │
- └──────────────────────────────────────────────────────────┘
-```
-
----
-
-## 🤝 Let's Connect & Build Together
-
-Whether you are looking to build a **scalable PropTech platform**, automate enterprise workflows with **AI/LLMs**, or optimize a mission-critical **full-stack web application**:
-
-- 💬 **Ask me about:** Laravel architecture, Next.js full-stack apps, AI/LLM integration, Real Estate PropTech, and CRM automation.
-- 📧 **Email:** [khuzemasaeed@gmail.com](mailto:khuzemasaeed@gmail.com)
-- 💼 **LinkedIn:** [linkedin.com/in/khuzemah-saeed](https://www.linkedin.com/in/khuzemah-saeed/)
-- 🐦 **Twitter/X:** [@KhuzemahSaeed](https://twitter.com/KhuzemahSaeed)
-- 🐙 **GitHub:** [@KHUZEMAHSAEED](https://github.com/KHUZEMAHSAEED)
-
-<p align="center">
-  <b>⚡ Available for Senior Full Stack & AI Engineering opportunities (Remote / Hybrid / Contract).</b>
-</p>
+Building a PropTech platform, automating workflows with AI, or scaling a Laravel/Next.js app? Reach me at **[khuzemasaeed@gmail.com](mailto:khuzemasaeed@gmail.com)** or on [LinkedIn](https://www.linkedin.com/in/khuzemah-saeed/).
